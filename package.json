@@ -1,7 +1,7 @@
 {
-  "name": "avaamo_assignment",
+  "name": "assignment",
   "version": "1.0.0",
-  "description": "Avaamo assignment",
+  "description": "assignment",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
